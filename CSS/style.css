@@ -1,0 +1,49 @@
+nav ul {
+    list-style: none;
+    
+    
+}
+
+
+
+body .jumbotron  {
+    text-align: center;
+
+}
+
+.bg {
+    color: #E9ECEF;
+}
+
+.center {
+    text-align: center;
+}
+.bg {
+    background-color: #E9ECEF;
+}
+div .card-body h5 {
+    text-align: center;
+    color: blueviolet;
+}
+
+div .card-body p {
+    text-align: center;
+}
+
+img {
+    float: left;
+}
+
+.bg {
+    background-color: #E9ECEF;
+}
+
+p {
+    color: black;
+}
+.p2 {
+    color: peru;
+    font-weight:bold;
+
+}
+
